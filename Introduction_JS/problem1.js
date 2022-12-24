@@ -2,7 +2,7 @@ console.log("Masai School");
 
 console.log("A Transformation in Education");
 
-//two methods for answere 
+//i have used two methods for answere here 
 
 let a= "Masai School";
 console.log(a);
